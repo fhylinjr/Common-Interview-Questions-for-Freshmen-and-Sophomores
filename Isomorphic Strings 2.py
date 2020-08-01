@@ -1,7 +1,7 @@
 # This program is a second alternative to the Isomorphic Program written by Linus Okoth
 # The main difference is that this program does not use a dictionaries or set so saves on the space complexity.
 
-#Time Complexity: O(N)
+#Time Complexity: O(N^2) - Update by Chika Jinanwa
 #Space Complexity: O(N)
 
 def isomorphic(s,t):
